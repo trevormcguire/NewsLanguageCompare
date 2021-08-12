@@ -1,2 +1,2 @@
 # NewsLanguageCompare
-Compare Language of different News outlets as it pertains to specific topics.
+Compare the language of different news outlets as it pertains to specific topics.
